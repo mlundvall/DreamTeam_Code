@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DreamTeam_Code", "DreamTeam_Code\DreamTeam_Code.pyproj", "{2D6369D7-6A75-4AE5-AE7D-4ACDCE544489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6369D7-6A75-4AE5-AE7D-4ACDCE544489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6369D7-6A75-4AE5-AE7D-4ACDCE544489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE378C0-5D5C-48A5-8C9E-979930FCA4E6}
+	EndGlobalSection
+EndGlobal
