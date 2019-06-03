@@ -2,6 +2,8 @@
     Retrieve items which are segmented
 """
 class Items:
+    imageList = []
+
     """
     Make frame on the images objects.
     

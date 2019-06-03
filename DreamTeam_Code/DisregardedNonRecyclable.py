@@ -2,6 +2,8 @@
 	Show the non-recyclable trash to user. This class is only for Sequence Diagram 5.
 """
 class DisregardedNonRecyclable:
+    imageList = []
+
     """
     Display non-recyclable trash to user
 
